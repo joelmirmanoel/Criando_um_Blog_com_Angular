@@ -1,59 +1,20 @@
-# AngularBlog
+# 
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
+# DIO AngularBlog
 
-## Development server
+Criando um blog com Angular.
 
-To start a local development server, run:
+Criar um blog com Angular é uma excelente maneira de aprender e aplicar conceitos modernos de desenvolvimento web. O Angular, com sua abordagem baseada em componentes e o poderoso sistema de roteamento, permite construir aplicações dinâmicas e de alto desempenho, como um blog interativo. A estrutura de SPA (Single Page Application) garante uma navegação fluida e sem recargas de página, proporcionando uma experiência de usuário mais ágil.
 
-```bash
-ng serve
-```
+## Projeto
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+<div> 
+  <img src="./public/Captura de tela de 2025-03-24 02-53-23.png" alt="Angular Blog" />
+</div>
 
-## Code scaffolding
+### Contato
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+### Joelmir Silva
 
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+[![E-mail : joelmirmanoel80@Gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](joelmirmanoel80@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/joelmir-silva-451052134/)
